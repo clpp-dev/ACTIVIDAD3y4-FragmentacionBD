@@ -4,9 +4,9 @@
 - ## Pruebas de particionamiento de bases de datos NoSQL
 
 
-#### Video: <a href="https://drive.google.com/file/d/1uM-SUdROzBQDh2Am1OEOx_n4LcOl0hkQ/view?usp=sharing" target="_blank" rel="nofollow">Video de la actividad</a>
+#### Video: <a href="https://drive.google.com/file/d/1Zk6nQogI377VuvSlPQsbjl6vCOEVMwHr/view?usp=sharing" target="_blank" rel="nofollow">Video de la actividad</a>
 
-#### Documento PDF: <a href="https://drive.google.com/file/d/17t87ig6m4aeaDfiM5qwnBk2h-TndwaEM/view?usp=drive_link" target="_blank" rel="nofollow">Ver documento</a>
+#### Documento PDF: <a href="https://drive.google.com/file/d/1ovZhC5gZdEBjwK_KgSdV25fNX6UwIa0S/view?usp=sharing" target="_blank" rel="nofollow">Ver documento</a>
 
 
 ## Presentado por:  
